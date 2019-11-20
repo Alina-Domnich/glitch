@@ -46,3 +46,16 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/*===== end reset styles ======*/
+
+/*===== main styles ===========*/
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1STigJ35HQ7rnsapyYISwGGhuQp51Ym52cjbb2H1wT5hDPn1&s);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.glitch{
+	margin: 0 auto;
+}
